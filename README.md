@@ -1,4 +1,4 @@
-# End to End Data Science Project
+# End to End Data Science Project (MLOps)
 
 ## For Step by Step guide check WIKI (https://github.com/Wa-C/datascienceproject/wiki) 
 ### Workflows--ML Pipeline 
